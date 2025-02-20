@@ -49,5 +49,5 @@ A professional website for a dentistry.
 ---
 
 <p align="center">
-  <a href="https://t.me/dariaert"><img src="https://img.shields.io/badge/Telegram-%2300AFF0.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/daria_ert"><img src="https://img.shields.io/badge/Telegram-%2300AFF0.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
