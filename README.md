@@ -32,7 +32,7 @@
 #### 🎬 [Cinema Ticket Booking System](https://github.com/dariaert/BookingSystem.git)
 A full-fledged cinema website with user authentication, admin panel, booking system, and more.
 
-#### 🏥 Raduga Dentistry Website (WIP)
+#### 🏥 [Raduga Dentistry Website (WIP)](https://radugazubki.ru/)
 A professional website for a dentistry.
 
 ---
