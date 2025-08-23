@@ -1,11 +1,4 @@
-<h1 align="center">
-  Hey there! I'm Daria 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVpd2Y2ZDZ4MThwZ3E4eTE1d2Q0enh3a2l0czdjNG96bWNnMWhzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EjEYbM9oZ1fEXrY4Jn/giphy.gif" alt="Gif" width="45"/>
-</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Java+Backend+Developer+|+Web+Developer+|+Educator;" alt="Typing SVG" />
-</p>
 
 ---
 
